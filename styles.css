@@ -1,0 +1,149 @@
+body{
+     background-color: rgb(246, 246, 247);
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+    font-family: 'poppins', sans-serif;
+    font-size: 18px;
+ }
+
+.pro{
+    text-decoration: underline;
+}
+
+.Aprogrammer{
+    color: black;
+    width: 300px;
+    margin-left: 500px;
+}
+
+.intro{
+    margin-left: 520px;
+    width: 254px;
+    margin-top: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.price{
+    width: 600px;
+    padding: 30px;
+}
+
+hr{
+    height: 5px; width: 50%;
+    border-top: 10px dotted black;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 10px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 147px;
+    right: 921px;
+}
+
+a{
+    color: black;
+}
+
+.top-div{
+    
+     padding: 20px;
+    text-align: center;
+}
+
+.profile-photo{
+    position: absolute;
+    margin: 3px;
+    height: 98px;
+    width: 106px;
+    left: 503px;
+}
+
+.profile{
+    background-color: rgb(246, 246, 247);
+    margin-bottom: 10px;
+}
+
+.hello{
+    padding: 30px;
+    margin-left: 488px;
+    width: 254px;
+    margin-top: 0px;
+}
+.hello-p{
+    width: 45%;
+    margin: 30px auto 30px auto;
+    line-height: 2;
+}
+.bottom-container{
+    background-color: black;
+    margin: -33px auto -5px auto;
+    line-height: 6;
+
+}
+
+.contact-me{
+    background-color: pink;
+    margin-bottom: -16px;
+} 
+
+.skills{
+    background-color: pink;
+    margin-top: 58px;  margin-bottom: -4px;
+ }
+
+.table{
+    margin-left: 445px;  
+    margin-bottom: 50px;
+    margin-top: 85px;
+    width: 383px;
+    padding: 8px
+}
+.btn{
+    border: 1px solid black;
+    padding: 10px 10px;
+    border-radius: 30%;
+    text-decoration: none;
+    background-color: rgb(219, 137, 14);
+    color: white;
+}
+.btm{
+    border: 1px solid black;
+    padding: 10px 10px;
+    border-radius: 30%;
+    text-decoration: none;
+    background-color: rgb(219, 137, 14); color: white;
+}
+.btn:hover{
+    background-color: aqua;
+}
+.btm:hover{
+    background-color: green;
+}
+
+.programming-desc{
+    margin-bottom: 69px;
+}
+
+.programming-img{
+    border-radius: 95%;
+    height: 200px; width: 300px;
+    
+}
+
+ul{
+    width: 40%;
+    margin: 30px auto 30px auto;
+    line-height: 2
+}
